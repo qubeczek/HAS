@@ -1,0 +1,11 @@
+[Version]
+VersionInfo=V1.01 Build 02022010 
+[Class]
+TotalClass=1
+ArchiveName=HAS
+1.Name=Signals
+[~Signals]
+1.FileName=X_Men_converted.wav
+1.Filepath=C:\Program Files (x86)\Fatek\Vom Edit\Wave\
+1.VoiceName=X Men
+1.Descripition=
