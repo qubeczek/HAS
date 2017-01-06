@@ -5,7 +5,11 @@ TotalClass=1
 ArchiveName=HAS
 1.Name=Signals
 [~Signals]
-1.FileName=X_Men_converted.wav
+1.FileName=Nagranie (online-audio-converter.com).wav
 1.Filepath=C:\Program Files (x86)\Fatek\Vom Edit\Wave\
-1.VoiceName=X Men
-1.Descripition=
+1.VoiceName=DoTelefonu
+1.Descripition=Prosze natychmiast podejsc do telefonu
+2.FileName=Dzwonek do drzwi (online-audio-converter.com).wav
+2.Filepath=C:\Program Files (x86)\Fatek\Vom Edit\Wave\
+2.VoiceName=Dzwonek do drzwi
+2.Descripition=
